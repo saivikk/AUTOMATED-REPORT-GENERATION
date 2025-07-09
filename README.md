@@ -143,3 +143,4 @@ Python offers a flexible and powerful platform for automated report generation. 
 
 #OUTPUT :
 
+![Image](https://github.com/user-attachments/assets/2470b976-0f04-4e48-8163-02e314ef0893)
